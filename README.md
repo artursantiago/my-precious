@@ -55,3 +55,9 @@
 #### Software Requirements
 
 - [draw.io - Create Diagrams](http://draw.io/)
+
+<hr />
+
+### Have a suggestion?
+
+Any contributions you make are greatly appreciated. Feel free to suggest new links.
