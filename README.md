@@ -19,6 +19,7 @@
 - [Image Compressor - tinypng](https://tinypng.com/)
 - [Shield Badges](https://shields.io/)
 - [Text Faces](https://textfac.es/)
+- [Gitignore.io](http://gitignore.io/)
 
 #### Project Ideas
 
