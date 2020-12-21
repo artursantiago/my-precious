@@ -20,6 +20,7 @@
 - [Shield Badges](https://shields.io/)
 - [Text Faces](https://textfac.es/)
 - [Gitignore.io](http://gitignore.io/)
+- [Addoncrop - Media Downloader Extension](https://addoncrop.com/en/)
 
 #### Project Ideas
 
