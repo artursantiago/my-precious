@@ -25,6 +25,7 @@
 #### Project Ideas
 
 - [Dev Challenges](https://www.devchallenge.com.br/challenges)
+- [App Ideas](https://github.com/florinpop17/app-ideas)
 
 #### CSS
 
@@ -35,6 +36,7 @@
 #### Icons
 
 - [Icon Monstr](https://iconmonstr.com/)
+- [SVG Icons Compiltation](https://github.com/leungwensen/svg-icon)
 
 #### Illustrations
 
@@ -52,6 +54,7 @@
 
 - [Richard Kim](https://cwrichardkim.com/)
 - [Jacek Jeznach](https://jacekjeznach.com/)
+- [Kevin Oliveira](https://kevinoliveira.com.br/)
 
 
 #### Software Requirements
