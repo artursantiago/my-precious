@@ -51,7 +51,7 @@
 
 - [Como parecer inteligente na sua palestra TEDx | Will Stephen | TEDxNewYork](https://www.youtube.com/watch?v=8S0FDjFBj8o)
 
-### Articles
+#### Articles
 
 - [Normalizando('Utilizar dicionarios') listas para otimizar buscas em JavaScript](https://dev.to/tiburciogabriel/normalizando-listas-para-otimizar-buscas-em-javascript-1783)
 
