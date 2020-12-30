@@ -27,6 +27,8 @@
 
 - [Dev Challenges](https://www.devchallenge.com.br/challenges)
 - [App Ideas](https://github.com/florinpop17/app-ideas)
+- [Dribble](https://dribbble.com/)
+- [Pinterest](https://br.pinterest.com/)
 
 #### CSS
 
